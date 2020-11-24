@@ -3,3 +3,12 @@ body{
     background: #8e8e91;
     color: #11233f;
 }
+#practica{
+    margin: auto;
+    text-align: center;
+    border: 1px solid #000;
+}
+#cabecera{
+    background: #11233f;
+    color: #fff;
+}
