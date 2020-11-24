@@ -1,4 +1,5 @@
 body{
+    font-family: 'Courier New', Courier, monospace;
     text-align: center;
     background: #8e8e91;
     color: #11233f;
@@ -9,6 +10,8 @@ body{
     border: 1px solid #000;
 }
 #cabecera{
+    margin: 0;
+    padding: 0%;
     background: #11233f;
     color: #fff;
 }
